@@ -1,1 +1,2 @@
-
+## For step 1, I will conduct in-depth research based on the code and case given in the Matlab website（ https://www.mathworks.com/help/vision/ug/monocular-visual-simultaneous-localization-and-mapping.html ）. And list all my discoveries and reflections under folder step1.
+## For step 2, I will create my own database based on images and try to reproduce image scenes and predict camera trajectories based on what I learned in step 1. And list all my findings under folder step2. In addition, the file 'proof. jpg' is proof that the database for this step was created by oneself.
